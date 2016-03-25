@@ -1,4 +1,5 @@
 public class Main  {
+	private int x;
 	public static void main( String[] args ) {
 		System.out.println("Ligne 1");
 		System.out.println("Hello World");
