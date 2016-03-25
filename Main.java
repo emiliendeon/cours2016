@@ -6,4 +6,7 @@ public class Main  {
 		System.out.println("Bye bye");
 		System.out.println("Même pas besoin d'un autre main");
 	}
+	@Override String toString() {
+		return "main";
+	}
 }
